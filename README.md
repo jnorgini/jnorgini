@@ -1,6 +1,9 @@
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/114461353/193365261-7aec962a-26bc-4f99-a91d-25660ccfd4e8.gif)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/114461353/193365261-7aec962a-26bc-4f99-a91d-25660ccfd4e8.gif)<div align="center">
 
+  <a href="https://github.com/jnorgini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnorgini&layout=compact&langs_count=7&theme=merko"/>
+</div>
 
 ## 📱 Contact
 
