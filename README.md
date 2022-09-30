@@ -1,5 +1,8 @@
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/114461353/193234379-e957e2ff-1afa-4710-9645-76904c25023f.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/114461353/193351174-f443c03f-d3fc-447d-b633-fbae97f968f6.gif)
 ![Jnorgini's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnorgini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
@@ -17,8 +20,11 @@
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+
 
 
 ## 👩‍💻 IDE
