@@ -1,11 +1,6 @@
-<img align="left" src="https://user-images.githubusercontent.com/114461353/193351174-f443c03f-d3fc-447d-b633-fbae97f968f6.gif"/>
-  <a href="https://github.com/davidluiz91">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko"/>
-  <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnorgini&layout=compact"/> 
-  
- 
-## 
-##
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/114461353/193351174-f443c03f-d3fc-447d-b633-fbae97f968f6.gif)
+![Jnorgini's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko)
+
 
 ## 📱 Contact 
 
