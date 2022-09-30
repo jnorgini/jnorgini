@@ -1,5 +1,5 @@
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/114461353/193365261-7aec962a-26bc-4f99-a91d-25660ccfd4e8.gif)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko)
 
 
 ## 📱 Contact
