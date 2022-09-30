@@ -1,10 +1,8 @@
-<img align="left" alt="gif" src="https://user-images.githubusercontent.com/114461353/193351174-f443c03f-d3fc-447d-b633-fbae97f968f6.gif"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnorgini&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
-</div>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/114461353/193365261-7aec962a-26bc-4f99-a91d-25660ccfd4e8.gif)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
 
 
-## 📱 Contact 
+## 📱 Contact
 
 <div style="display: inline_block">
 <a href="https://github.com/jnorgini" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
