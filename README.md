@@ -1,8 +1,8 @@
-
-<img align="up-left" alt="gif" src="https://user-images.githubusercontent.com/114461353/193351174-f443c03f-d3fc-447d-b633-fbae97f968f6.gif">
-<img align="up-right" alt="Status" src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko">
-<img align="up-right" alt="Top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnorgini&layout=compact)](https://github.com/anuraghazra/github-readme-stats"></div>
-
+<div>
+<img height="450em" src="https://user-images.githubusercontent.com/114461353/193351174-f443c03f-d3fc-447d-b633-fbae97f968f6.gif" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnorgini&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+</div>
 
 ## 📱 Contact 
 <div style="display: inline_block">
