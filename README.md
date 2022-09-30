@@ -1,5 +1,4 @@
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/114461353/193232954-9349395d-9029-4909-be3f-af5d2479ef1a.gif)![Jnorgini's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko)
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/114461353/193232741-4fb254b2-8dec-490d-b655-202043c9cd8c.gif)
 
 
 ## 📱 Contact 
@@ -51,5 +50,7 @@
 <div style="display: inline_block">
 <img align="center" alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
 
-
+##
+  
+![Jnorgini's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko)  
 
