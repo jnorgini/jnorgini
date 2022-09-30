@@ -1,5 +1,6 @@
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/114461353/193234379-e957e2ff-1afa-4710-9645-76904c25023f.gif)
-![Jnorgini's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko)  
+![Jnorgini's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko) 
+
 
 
 
