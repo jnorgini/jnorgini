@@ -1,5 +1,4 @@
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/114461353/193230837-6acbacaa-6d77-408b-b68f-cc9458f135ed.gif)
-![Jnorgini's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/114461353/193230837-6acbacaa-6d77-408b-b68f-cc9458f135ed.gif)![Jnorgini's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko)
 
 
 
@@ -39,9 +38,9 @@
 ## ⌨️ Office
 
 <div style="display: inline_block">
-<img align="center" alt="Microsoft_Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img align="center" alt="Microsoft_Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 <img align="center" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<img align="center" alt="Microsoft_Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+<img align="center" alt="Microsoft_Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 
 
 ## 🎮 Games
@@ -51,9 +50,6 @@
 ## 🎞 Streaming
 <div style="display: inline_block">
 <img align="center" alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-
-
-## 
 
 
 
