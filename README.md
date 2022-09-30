@@ -1,5 +1,4 @@
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/114461353/193351174-f443c03f-d3fc-447d-b633-fbae97f968f6.gif)
-![Jnorgini's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnorgini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/114461353/193351174-f443c03f-d3fc-447d-b633-fbae97f968f6.gif)![Jnorgini's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnorgini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📱 Contact 
 <div style="display: inline_block">
