@@ -1,5 +1,6 @@
 
-<div align="up">
+<h2 align="center">
+<h2 align="left">
 
 <img  src="https://user-images.githubusercontent.com/114461353/193368888-d8831282-e247-4051-b83c-13f463a7c0f9.gif" />
 
