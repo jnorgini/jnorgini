@@ -1,7 +1,6 @@
 ![gif](https://user-images.githubusercontent.com/114461353/193368888-d8831282-e247-4051-b83c-13f463a7c0f9.gif)
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko)
    
-   <br/>
 
 ## 📱 Contact
 
@@ -9,7 +8,6 @@
 <a href="https://github.com/jnorgini" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/juliana-norgini-5b0bb61b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:jnorgini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
 
 
 ## 💻 Learning
