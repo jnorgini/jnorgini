@@ -3,7 +3,7 @@
  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"  />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"  />
  <br />
-  <img src="https://user-images.githubusercontent.com/114461353/193368888-d8831282-e247-4051-b83c-13f463a7c0f9.gif" alt="soul&code" width="450" height="350" />
+  <img src="https://user-images.githubusercontent.com/114461353/193368888-d8831282-e247-4051-b83c-13f463a7c0f9.gif" alt="soul&code" />
  <br />
 
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"  />
