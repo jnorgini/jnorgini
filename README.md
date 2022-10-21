@@ -19,7 +19,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jnorgini&theme=merko&hide_border=false&include_all_commits=true&count_private=false"/>
 <br />
 
-- 🔭 I’m currently working on [Chess game with Java](https://github.com/jnorgini/chess-system-java.git)
+### - 🔭 I’m currently working on [Chess game with Java](https://github.com/jnorgini/chess-system-java.git)
 <p align="left">
 <p align="right"> <img src="https://visitcount.itsvg.in/api?id=jnorgini&icon=2&color=2" alt="jnorgini" /> </p>
 
