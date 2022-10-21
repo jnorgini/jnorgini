@@ -1,6 +1,5 @@
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=jnorgini&icon=2&color=2" alt="jnorgini" /> </p>
-
+<img src="https://visitcount.itsvg.in/api?id=jnorgini&icon=2&color=2" alt="jnorgini" />
 <p align="center">  <img src="https://user-images.githubusercontent.com/114461353/193368888-d8831282-e247-4051-b83c-13f463a7c0f9.gif" alt="soul&code" />
 <p align="center">
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"  />
@@ -11,11 +10,10 @@
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"  />
 
 
+### 🔭 I’m currently working on [Chess game with Java](https://github.com/jnorgini/chess-system-java.git)
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko"/>
-
-
-### 🔭 I’m currently working on [Chess game with Java](https://github.com/jnorgini/chess-system-java.git)
 
 ---
 
