@@ -11,10 +11,10 @@
 
 ---
 
+### *🔭 I’m currently working on [Chess game](https://github.com/jnorgini/chess-system-java.git) with Java*
+
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko"/>
-
-### *🔭 I’m currently working on [Chess game](https://github.com/jnorgini/chess-system-java.git) with Java*
 
 ---
 
