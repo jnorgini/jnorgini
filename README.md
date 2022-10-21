@@ -9,11 +9,12 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"  />
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"  />
 
-
-## 🔭 I’m currently working on [Chess game](https://github.com/jnorgini/chess-system-java.git) with Java
+---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko"/>
+
+*🔭 I’m currently working on [Chess game](https://github.com/jnorgini/chess-system-java.git) with Java*
 
 ---
 
