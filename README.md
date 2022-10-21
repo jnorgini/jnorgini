@@ -15,10 +15,8 @@
 ### 🔭 I’m currently working on [Chess game with Java](https://github.com/jnorgini/chess-system-java.git)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko"/>
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko"/>
 </br>
-
----
 
 <h3 align="right">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/juliana-norgini-5b0bb61b0/">
@@ -32,5 +30,5 @@
 <br/>
 
 
-
+---
 
