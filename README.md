@@ -1,5 +1,16 @@
 
 <p align="center">
+<a href="https://www.linkedin.com/in/juliana-norgini-5b0bb61b0/">
+  <img align="center" alt="Juliana's Linkdein" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/jnorgini">
+  <img align="center" alt="Júlio's Github" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/juliana.norgini">
+  <img align="center" alt="Juliana's Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<br/>
+
+
  <img src="https://visitcount.itsvg.in/api?id=jnorgini&icon=2&color=2" alt="jnorgini" /> </p>
 <p align="center">  <img src="https://user-images.githubusercontent.com/114461353/193368888-d8831282-e247-4051-b83c-13f463a7c0f9.gif" alt="soul&code" />
 <p align="center">
@@ -18,12 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko"/>
 </br>
 
---- 
+---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/juliana-norgini-5b0bb61b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliana-norgini-5b0bb61b0" height="30" width="40" /></a>
-<a href="https://instagram.com/juliana.norgini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juliana.norgini" height="30" width="40" /></a>
-</p>
 
 
