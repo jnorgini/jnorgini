@@ -17,16 +17,13 @@
 <p align="left">
   <img width="450px" src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko"/>
 
-<h3 align="right">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/juliana-norgini-5b0bb61b0/">
-  <img align="right" alt="Juliana's Linkdein" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/jnorgini">
-  <img align="right" alt="jnorgini's Github" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/juliana.norgini">
-  <img align="right" alt="Juliana's Instagram" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<br/>
+---
+
+<h4 align="center">Connect with me:</h4>
+<p align="center">
+<a href="https://linkedin.com/in/juliana-norgini-5b0bb61b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliana-norgini-5b0bb61b0" height="30" width="40" /></a>
+<a href="https://instagram.com/juliana.norgini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juliana.norgini" height="30" width="40" /></a>
+</p>
 
 
 
