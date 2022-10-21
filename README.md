@@ -10,7 +10,7 @@
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"  />
 
 
-### 🔭 I’m currently working on [Chess game with Java](https://github.com/jnorgini/chess-system-java.git)
+**🔭 I’m currently working on [Chess game](https://github.com/jnorgini/chess-system-java.git) with Java**
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko"/>
@@ -24,5 +24,3 @@
   <img align="center" alt="jnorgini's Github" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 <a href="https://instagram.com/juliana.norgini">
   <img align="center" alt="Juliana's Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-
-
