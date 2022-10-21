@@ -22,13 +22,13 @@
 <p align="right">
 
 <a href="https://www.linkedin.com/in/juliana-norgini-5b0bb61b0/">
-  <img align="right" alt="Juliana's Linkdein" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="right" alt="Juliana's Linkdein" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/jnorgini">
-  <img align="right" alt="jnorgini's Github" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="right" alt="jnorgini's Github" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/juliana.norgini">
-  <img align="right" alt="Juliana's Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="right" alt="Juliana's Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 <br/>
 
 ---
