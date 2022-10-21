@@ -18,8 +18,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko"/>
 </br>
 
-<h2 align="right">Connect with me:</h2>
-<p align="right">
+<h3 align="right">Connect with me:</h3>
+
 <a href="https://www.linkedin.com/in/juliana-norgini-5b0bb61b0/">
   <img align="right" alt="Juliana's Linkdein" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -30,7 +30,6 @@
   <img align="right" alt="Juliana's Instagram" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 <br/>
 
----
 
 
 
