@@ -12,15 +12,19 @@
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"  />
 </p>
 
----
 
+![](https://github-readme-stats.vercel.app/api?username=jnorgini&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-
-<p align="rightem">
-<a href="https://github.com/jnorgini" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  />
-<a href="https://www.linkedin.com/in/juliana-norgini-5b0bb61b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"  />
-<a href = "mailto:jnorgini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"  />
-
+- 🔭 I’m currently working on [Chess game with Java](https://github.com/jnorgini/chess-system-java.git)
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko" alt="soul&code"/>
+
+--- 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/juliana-norgini-5b0bb61b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliana-norgini-5b0bb61b0" height="30" width="40" /></a>
+<a href="https://instagram.com/juliana.norgini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juliana.norgini" height="30" width="40" /></a>
 </p>
+
+<p align="right"> <img src="https://visitcount.itsvg.in/api?id=jnorgini&icon=2&color=2" alt="jnorgini" /> </p>
+
