@@ -14,6 +14,13 @@
 
 ### 🔭 I’m currently working on [Chess game with Java](https://github.com/jnorgini/chess-system-java.git)
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko"/>
+</br>
+
+<h3 align="right">Connect with me:</h3>
+<p align="right">
+
 <a href="https://www.linkedin.com/in/juliana-norgini-5b0bb61b0/">
   <img align="right" alt="Juliana's Linkdein" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -23,10 +30,6 @@
 <a href="https://instagram.com/juliana.norgini">
   <img align="right" alt="Juliana's Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 <br/>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko"/>
-</br>
 
 ---
 
