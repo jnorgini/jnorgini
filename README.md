@@ -18,10 +18,9 @@
 
 ---
 
+
+<h4 align="center">Connect with me:</h4>
 <p align="center">
-<a href="https://www.linkedin.com/in/juliana-norgini-5b0bb61b0/">
-  <img align="center" alt="Juliana's Linkdein" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<a href="https://github.com/jnorgini">
-  <img align="center" alt="jnorgini's Github" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-<a href="https://instagram.com/juliana.norgini">
-  <img align="center" alt="Juliana's Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://linkedin.com/in/juliana-norgini-5b0bb61b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliana-norgini-5b0bb61b0" height="30" width="40" /></a>
+<a href="https://instagram.com/juliana.norgini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juliana.norgini" height="30" width="40" /></a>
+</p>
