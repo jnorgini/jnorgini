@@ -16,7 +16,7 @@
 <p align="right">
 
  <img src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko" min-width="414px" max-width="414px" width="414px" align="right" alt="stats">
-<p align="left"> 
+
 
 ```diff 
 + Hi there, I am Juliana Norgini
