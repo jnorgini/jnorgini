@@ -11,14 +11,11 @@
 
 
 ---
-
-<p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=320&lines=Hi+there%2C+I'm+Juliana;%3C%2F%3Ebackend+developer;%7Bcurrently+focused+on+java%7D" alt="Typing SVG" /></a>
-
-
 <p align="right">
  <img src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko" min-width="418px" max-width="418px" width="418px" align="right" alt="stats">
-
+ 
+<p align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=320&lines=Hi+there%2C+I'm+Juliana;%3C%2F%3Ebackend+developer;%7Bcurrently+focused+on+java%7D" alt="Typing SVG" /></a>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliana-norgini-5b0bb61b0/)](https://www.linkedin.com/in/juliana-norgini-5b0bb61b0/)
