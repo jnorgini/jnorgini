@@ -28,7 +28,6 @@
 </p>
 <p align="left">
   Contact: ⤵️
-</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliana-norgini-5b0bb61b0/)](https://www.linkedin.com/in/juliana-norgini-5b0bb61b0/)
 [![Gmail Badge](https://img.shields.io/badge/-jnorgini@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jnorgini@gmail.com)](mailto:PedroSpiet@gmail.com)
