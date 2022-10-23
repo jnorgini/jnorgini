@@ -14,7 +14,7 @@
 
 
 <p align="right">
- <img src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko" min-width="440px" max-width="440px" width="440px" align="right" alt="stats">
+ <img src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko" min-width="410px" max-width="410px" width="410px" align="right" alt="stats">
 
 <p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=320&lines=Hi+there%2C+I'm+Juliana;%3C%2F%3Ebackend+developer;%7Bcurrently+focused+on+java%7D" alt="Typing SVG" /></a>
