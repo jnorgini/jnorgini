@@ -15,7 +15,7 @@
 
 <p align="right">
 
- <img src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+ <img src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko" min-width="450px" max-width="450px" width="450px" align="right" alt="stats">
 <p align="left"> 
 
 ```diff
