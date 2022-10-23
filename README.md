@@ -15,7 +15,7 @@
 
 <p align="right">
 
- <img src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko" min-width="430px" max-width="430px" width="430px" align="right" alt="stats">
+ <img src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&theme=merko" min-width="420px" max-width="420px" width="420px" align="right" alt="stats">
 
 
 ```diff 
