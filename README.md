@@ -21,7 +21,7 @@
 
 
   <p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hi%2C+there!;I'm+Juliana+Norgini;%3C%2F%3ESoftware+Engineer;Contact+%E2%A4%B5" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hi%2C+there!;I'm+Juliana+Norgini;%3C%2F%3ESoftware+Developer;Contact+%E2%A4%B5" alt="Typing SVG" /></a>
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliana-norgini-5b0bb61b0/)](https://www.linkedin.com/in/juliana-norgini-5b0bb61b0/)
 [![Gmail Badge](https://img.shields.io/badge/-jnorgini@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jnorgini@gmail.com)](mailto:jnorgini@gmail.com)
