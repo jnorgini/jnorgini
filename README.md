@@ -19,8 +19,8 @@
 
 
  <p align="right">
- <img src="https://github-readme-stats.vercel.app/api?username=jnorgini&show_icons=true&locale=en&theme=merko" min-width="420max-width="420x" width="420x" align="right" alt="stats ">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jnorgini&show_icons=true&locale=en&layout=compact&theme=merko" alt="jnorgini" /></p>
+ <img src="https://github-readme-stats-drab-one.vercel.app/api?username=jnorgini&show_icons=true&locale=en&theme=merko" min-width="420max-width="420x" width="420x" align="right" alt="stats ">
+<p><img align="left" src="https://github-readme-stats-drab-one.vercel.app/api/top-langs?username=jnorgini&show_icons=true&locale=en&layout=compact&theme=merko" alt="jnorgini" /></p>
 
 
   <p align="left">
