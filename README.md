@@ -30,7 +30,7 @@
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliana-norgini)](https://www.linkedin.com/in/juliana-norgini)
 [![Gmail Badge](https://img.shields.io/badge/-jnorgini@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jnorgini@gmail.com)](mailto:jnorgini@gmail.com)
 
- <h4><p align="right">Last project: <a href="https://github.com/jnorgini/API_Pessoas">Spring boot, Hibernate, JPA and H2 database REST API</p>
+ <h4><p align="right">Last project: <a href="https://github.com/jnorgini/JpaRepository/tree/master">JPA repository with advanced database lookup queries</p>
 <p align="right">Currently working on: <a href="https://github.com/jnorgini/workshop-springboot-mongodb">API RESTful com Spring Boot e banco MongoDB (web services + NoSQL)</p></h4>
  
 
