@@ -31,6 +31,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-jnorgini@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jnorgini@gmail.com)](mailto:jnorgini@gmail.com)
 
 <em> <h4><p align="right">Last project: <a href="https://github.com/jnorgini/Fullstack-web-app">Spring Boot and React web application</p></em>
-<em><p align="right">Currently working on: <a href="https://github.com/jnorgini/students">Student System fullstack project</p></h4></em>
+<em><p align="right">Currently working on: <a href="https://github.com/jnorgini/Wallet-app">Wallet Fullstack Application</p></h4></em>
  
 
