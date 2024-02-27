@@ -31,7 +31,7 @@
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliana-norgini)](https://www.linkedin.com/in/juliana-norgini)
 [![Gmail Badge](https://img.shields.io/badge/-jnorgini@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jnorgini@gmail.com)](mailto:jnorgini@gmail.com)
 
-<em> <h4><p align="right">Last project: <a href="https://github.com/jnorgini/dslist">Full Stack game list web application</p></em>
-<em><p align="right">Currently working on: <a href="https://github.com/jnorgini/frontend-ong">Front-End ONG</p></h4></em>
+<em> <h4><p align="right">Last project: <a href="https://github.com/jnorgini/frontend-ong">Front-End ONG</p></em>
+<em><p align="right">Currently working on: <a href="https://github.com/jnorgini/api-node-prisma/tree/dev">Back-End with NodeJS</p></h4></em>
  
 
