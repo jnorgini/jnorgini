@@ -33,6 +33,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-jnorgini@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jnorgini@gmail.com)](mailto:jnorgini@gmail.com)
 
 <em> <h4><p align="right">Last project: <a href="https://github.com/jnorgini/spring-jwt/tree/develop">REST API with Spring Boot, Maven & MySQL + Authentication</p></em>
-<em><p align="right">Currently working on: <a href="https://github.com/jnorgini/angular-jwt/commits/develop/">JWT front-end with Angular and TailwindCSS</p></h4></em>
+<em><p align="right">Currently working on: <a href="https://github.com/jnorgini/angular-jwt/tree/develop">JWT front-end with Angular and TailwindCSS</p></h4></em>
  
 
