@@ -33,6 +33,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-jnorgini@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jnorgini@gmail.com)](mailto:jnorgini@gmail.com)
 
 <em> <h4><p align="right">Last project: <a href="https://github.com/jnorgini/spring-rabbitmq-docker.git">Spring Boot + RabbitMQ + Docker</p></em>
-<em><p align="right">Currently working on: <a href="https://github.com/jnorgini/aws-sqs">Spring Boot + Cloud AWS + SQS</p></h4></em>
+<em><p align="right">Currently working on: <a href="https://github.com/jnorgini/spring-aws-s3">API REST integrada ao AWS S3 e containerizada com Docker Compose</p></h4></em>
  
 
