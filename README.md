@@ -33,6 +33,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-jnorgini@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jnorgini@gmail.com)](mailto:jnorgini@gmail.com)
 
 <em> <h4><p align="right">Last project: <a href="https://github.com/jnorgini/astrolog">Full Stack Astrology application</p></em>
-<em><p align="right">Currently working on: <a href="docai-document-intelligence">AI-powered PDF analysis and contextual chat with Spring Boot and React.</p></h4></em>
+<em><p align="right">Currently working on: <a href="https://github.com/jnorgini/docai-document-intelligence">AI-powered PDF analysis and contextual chat with Spring Boot and React.</p></h4></em>
  
 
